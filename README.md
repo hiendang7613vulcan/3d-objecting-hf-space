@@ -1,3 +1,15 @@
+---
+title: MV-SAM3D + fal SAM-3
+emoji: 🧊
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
+suggested_hardware: l4x1
+suggested_storage: small
+pinned: false
+---
+
 # MV-SAM3D + fal SAM-3 (Main Object Mask) — Hugging Face Space
 
 This Space:
